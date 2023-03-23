@@ -10,6 +10,9 @@ Lastly, we will analyze the sales channels and compare their revenue performance
 Finally, this analysis will provide valuable insights for the bakery to maximize revenue and improve its sales performance.
 
 # INSIGHTS:
+
+![Dashboard](Bakery Sales Dashboard Image.PNG)
+
  
 # What is the bakery's sales performance and capacity to handle customer demand?
 The bakery's sales performance is impressive, having generated a total revenue of 995k from 22k orders. This indicates a healthy demand for their products. The bakery's range of over 10 different types of products also suggests that they have a diverse product line that caters to a wide range of customers.
