@@ -11,9 +11,8 @@ Finally, this analysis will provide valuable insights for the bakery to maximize
 
 # INSIGHTS:
 
-!Dashboard(Bakery Sales Dashboard Image.PNG)
+ ![Bakery Sales Dashboard Image](https://user-images.githubusercontent.com/127628021/227203216-581b9f65-d278-4c41-81b9-bf2f9d998760.PNG)
 
- 
 # What is the bakery's sales performance and capacity to handle customer demand?
 The bakery's sales performance is impressive, having generated a total revenue of 995k from 22k orders. This indicates a healthy demand for their products. The bakery's range of over 10 different types of products also suggests that they have a diverse product line that caters to a wide range of customers.
 Moreover, with 5 salespersons, it appears that the bakery has a well-organized sales team that can effectively handle the orders and keep up with the demand.
