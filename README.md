@@ -1,7 +1,7 @@
 # Bakery-Sales-Analysis
 
 
-## PROJECT DESCRIPTION:
+# PROJECT DESCRIPTION:
 The goal of this analysis is to evaluate the sales performance of a bakery and identify areas for improvement to maximize revenue. The bakery's sales data was collected for the year 2010 and includes information on product sales, sales channels, and the number of orders placed.
 The analysis begins by examining the overall performance of the bakery, including the total revenue generated, the number of orders placed, and the range of products offered. This will help determine the bakery's strengths and identify any areas that need improvement.
 The analysis then focuses on the sales performance of each product, including their revenue, popularity among customers, and the price charged for each item. By examining the relationship between revenue and orders, we can identify opportunities to maximize revenue across all products and determine which products are most profitable.
@@ -11,7 +11,7 @@ Finally, this analysis will provide valuable insights for the bakery to maximize
 
 # INSIGHTS:
 
-![Dashboard](Bakery Sales Dashboard Image.PNG)
+!Dashboard(Bakery Sales Dashboard Image.PNG)
 
  
 # What is the bakery's sales performance and capacity to handle customer demand?
