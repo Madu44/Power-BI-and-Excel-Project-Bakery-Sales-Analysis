@@ -1,4 +1,5 @@
-# Bakery-Sales-Analysis
+# Bakery-Sales-Analysis 
+### Tools: Excel and Power BI with "Play Axis"
 
 
 # PROJECT DESCRIPTION:
