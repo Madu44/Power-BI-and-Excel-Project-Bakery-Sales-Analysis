@@ -1,6 +1,4 @@
 # Bakery-Sales-Analysis 
-### Tools: Excel and Power BI with "Play Axis"
-
 
 # PROJECT DESCRIPTION:
 The goal of this analysis is to evaluate the sales performance of a bakery and identify areas for improvement to maximize revenue. The bakery's sales data was collected for the year 2010 and includes information on product sales, sales channels, and the number of orders placed.
